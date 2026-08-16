@@ -1,26 +1,37 @@
 <!-- ================================================================= -->
-<!-- 🚀 HEADER BANNER & ANIMATED TYPING HERO                            -->
+<!-- 🌌 HERO BANNER & ANIMATED HEADER                                 -->
 <!-- ================================================================= -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,20&height=230&section=header&text=Sumit%20%7C%20Mjlonir29&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%E2%9A%A1%20Full%20Stack%20Architect%20%26%20Problem%20Solver%20%E2%9A%A1&descAlignY=62&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,20,10&height=240&section=header&text=SUMIT%20%7C%20MJLONIR29&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=%E2%9A%A1%20Full%20Stack%20Software%20Architect%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Open%20Source%20Builder%20%E2%9A%A1&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
   <br/>
 
   <a href="https://github.com/Mjlonir29">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=650&lines=Full+Stack+Web+Developer;Building+Scalable+MERN+Ecosystems;Passionate+About+Clean+Code+%26+System+Design;Transforming+Ideas+Into+Seamless+Digital+Products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00F0FF&center=true&vCenter=true&random=false&width=650&lines=Full+Stack+Web+Developer;Building+Scalable+MERN+Ecosystems;Crafting+Pixel-Perfect+%26+High-Performance+UIs;Architecting+High-Throughput+APIs+%26+Databases;Turning+Complex+Problems+Into+Clean+Code" alt="Typing SVG" />
   </a>
 
+  <br/><br/>
+
   <p align="center">
-    <a href="https://github.com/Mjlonir29?tab=repositories">
-      <img src="https://img.shields.io/github/followers/Mjlonir29?label=Followers&logo=github&style=for-the-badge&color=0D1117&labelColor=161B22&logoColor=00E5FF" alt="Followers" />
-    </a>
     <a href="https://github.com/Mjlonir29">
-      <img src="https://img.shields.io/badge/Status-Building_%26_Innovating-00E5FF?style=for-the-badge&color=0D1117&labelColor=161B22&logo=gitbook&logoColor=00E5FF" alt="Status" />
+      <img src="https://komarev.com/ghpvc/?username=Mjlonir29&label=Profile%20Views&color=00F0FF&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
+    </a>
+    <a href="https://github.com/Mjlonir29?tab=repositories">
+      <img src="https://img.shields.io/github/followers/Mjlonir29?label=Followers&logo=github&style=for-the-badge&color=00F0FF&labelColor=0D1117&logoColor=00F0FF" alt="Followers" />
     </a>
     <a href="#-get-in-touch">
-      <img src="https://img.shields.io/badge/Available_For-Collaborations-success?style=for-the-badge&color=0D1117&labelColor=161B22&logo=codeforces&logoColor=00FF9D" alt="Open for Collabs" />
+      <img src="https://img.shields.io/badge/Status-🟢_Open_For_Opportunities-00FF9D?style=for-the-badge&color=00FF9D&labelColor=0D1117" alt="Status" />
     </a>
+  </p>
+
+  <!-- Quick Navigation Anchors -->
+  <p align="center">
+    <a href="#-system-terminal--developer-hud"><code>[ ⚡ About ]</code></a> &nbsp;•&nbsp;
+    <a href="#-tech-arsenal--skills-matrix"><code>[ 🛠️ Tech Arsenal ]</code></a> &nbsp;•&nbsp;
+    <a href="#-featured-projects--architecture"><code>[ 🚀 Projects ]</code></a> &nbsp;•&nbsp;
+    <a href="#-live-telemetry--activity-metrics"><code>[ 📊 Telemetry ]</code></a> &nbsp;•&nbsp;
+    <a href="#-lets-connect--collaborate"><code>[ 📬 Contact ]</code></a>
   </p>
 </div>
 
@@ -29,27 +40,31 @@
 ---
 
 <!-- ================================================================= -->
-<!-- 💻 DEVELOPER HUD / TERMINAL BIO                                   -->
+<!-- 💻 DEVELOPER HUD / SYSTEM TERMINAL                                -->
 <!-- ================================================================= -->
 
-### ⚡ `System.identity // Developer HUD`
+### ⚡ `System Terminal // Developer HUD`
 
 ```zsh
-➜  ~ whoami
-• Sumit (Mjlonir29) — Full-Stack Developer & Software Craftsman
+┌──(sumit㉿mjlonir29)-[~]
+└─$ whoami --verbose
+• Name        : Sumit
+• GitHub ID   : Mjlonir29
+• Role        : Full-Stack Software Engineer & Systems Builder
+• Coordinates : India 🇮🇳
 
-➜  ~ cat current_mission.json
+┌──(sumit㉿mjlonir29)-[~]
+└─$ cat /etc/current_focus.json
 {
-  "location": "India 🇮🇳",
-  "status": "🚀 Architecting high-performance web applications & microservices",
-  "core_stack": ["React.js", "Node.js", "Express.js", "MongoDB", "Tailwind CSS"],
-  "star_project": "Spice-Up Restaurant Management System",
-  "focus_areas": [
-    "Scalable Backend Architecture",
-    "High-Conversion UI/UX Engineering",
-    "Real-time Distributed Workflows"
+  "active_status": "🚀 Engineering robust full-stack platforms & scalable web APIs",
+  "primary_stack": ["React 19", "Node.js", "Express.js", "MongoDB", "Tailwind CSS v4"],
+  "flagship_build": "Spice-Up Restaurant Management System",
+  "daily_focus": [
+    "High-throughput RESTful & Real-time Architecture",
+    "Clean, Maintainable & Component-Driven UI Engineering",
+    "Database Optimization & Authentication Pipelines"
   ],
-  "dev_philosophy": "Write code that humans can read and machines can run at lightspeed ⚡"
+  "motto": "Building software that bridges elegance in UI with resilience in backend ⚡"
 }
 ```
 
@@ -58,62 +73,60 @@
 ---
 
 <!-- ================================================================= -->
-<!-- 🛠️ TECH ARSENAL & SKILLS GRID                                    -->
+<!-- 🛠️ TECH ARSENAL & SKILLS MATRIX                                   -->
 <!-- ================================================================= -->
 
-### 🛠️ `Tech Arsenal & Capabilities`
+### 🛠️ `Tech Arsenal & Skills Matrix`
 
-<div align="center">
-  <p><b>Frontend & User Experience</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,bootstrap,redux&perline=10" />
-  </a>
-
-  <br/><br/>
-
-  <p><b>Backend, APIs & Databases</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql,postman&perline=8" />
-  </a>
-
-  <br/><br/>
-
-  <p><b>DevOps, Version Control & Environment</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,npm,pnpm,figma,linux&perline=8" />
-  </a>
-</div>
-
-<br/>
-
----
-
-<!-- ================================================================= -->
-<!-- 🌟 FLAGSHIP PROJECT SPOTLIGHT                                     -->
-<!-- ================================================================= -->
-
-### 🌟 `Flagship Project Spotlight`
-
-<table>
+<table width="100%">
   <tr>
-    <td width="100%">
-      <h3 align="left">🍽️ Spice-Up — Restaurant Management System</h3>
-      <p align="left">
-        A production-grade, full-stack enterprise dining and kitchen automation platform. Engineered for real-time table management, dynamic billing, seamless inventory sync, and intuitive staff dispatch.
-      </p>
+    <td width="50%" valign="top">
+      <h4 align="left">🎨 Frontend & UI Architecture</h4>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,bootstrap,redux&perline=5" alt="Frontend Skills" />
       </p>
-      <p align="left">
-        <a href="https://github.com/Mjlonir29/spice-up-restaurant-system">
-          <b>Explore Repository ➔</b>
-        </a>
+      <ul>
+        <li><b>Frameworks:</b> React.js, Next.js, Vite</li>
+        <li><b>Styling:</b> Tailwind CSS v4, Modern CSS3, Flexbox/Grid</li>
+        <li><b>State & Routing:</b> React Router DOM, Context API, Redux</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="left">⚙️ Backend, APIs & Data Systems</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman,graphql&perline=5" alt="Backend Skills" />
       </p>
+      <ul>
+        <li><b>Runtime & Framework:</b> Node.js, Express.js</li>
+        <li><b>Databases:</b> MongoDB, Mongoose, In-Memory DBs</li>
+        <li><b>Security & Auth:</b> JWT, Bcrypt, Role-Based Access Control</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="left">🧰 Developer Tools & Environment</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,pnpm,figma,linux,powershell&perline=5" alt="Dev Tools" />
+      </p>
+      <ul>
+        <li><b>Version Control:</b> Git & GitHub CI/CD Workflows</li>
+        <li><b>Workspace:</b> VS Code, PowerShell, Bash / Linux</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="left">📐 Engineering Principles & Practices</h4>
+      <br/>
+      <p>
+        <img src="https://img.shields.io/badge/RESTful_APIs-00F0FF?style=flat-square&logo=fastapi&logoColor=black" />
+        <img src="https://img.shields.io/badge/Monorepo_Architecture-0D1117?style=flat-square&logo=turborepo&logoColor=white" />
+        <img src="https://img.shields.io/badge/Clean_Code-00FF9D?style=flat-square&logo=codefactor&logoColor=black" />
+        <img src="https://img.shields.io/badge/Responsive_Design-0D1117?style=flat-square&logo=google-chrome&logoColor=white" />
+      </p>
+      <ul>
+        <li><b>Patterns:</b> MVC Architecture, Component-Driven Design</li>
+        <li><b>Testing:</b> In-Memory Database Sandbox, Postman API Testing</li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -123,7 +136,51 @@
 ---
 
 <!-- ================================================================= -->
-<!-- 📊 LIVE GITHUB ANALYTICS & STREAKS                                -->
+<!-- 🚀 FEATURED PROJECTS & ARCHITECTURE                               -->
+<!-- ================================================================= -->
+
+### 🚀 `Featured Projects & Architecture`
+
+<table>
+  <tr>
+    <td width="100%">
+      <div align="left">
+        <h3>🍽️ SPICE UP — Restaurant Management System</h3>
+        <p>
+          A comprehensive full-stack enterprise dining and restaurant operations automation platform. Built with a unified <b>Monorepo</b> architecture encompassing dedicated client and server workspaces.
+        </p>
+        <p>
+          <b>Key Architectural Features:</b>
+          <br/>
+          • 🔐 <b>Robust Security:</b> Secure JWT Token authentication paired with Bcrypt salted hashing.<br/>
+          • ⚡ <b>Modern UI/UX:</b> High-speed client powered by Vite & Tailwind CSS v4 styling.<br/>
+          • 🧪 <b>Isolated Testing:</b> Seamless integration with MongoDB Memory Server for lightning-fast testing.<br/>
+          • 📦 <b>Monorepo Workspaces:</b> Concurrent server & client pipeline automation.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+          <img src="https://img.shields.io/badge/Tailwind_v4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+          <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+        </p>
+        <p>
+          <a href="https://github.com/Mjlonir29/spice-up-restaurant-system">
+            <b>👉 Explore the Spice-Up Repository on GitHub ➔</b>
+          </a>
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ================================================================= -->
+<!-- 📊 LIVE TELEMETRY & ACTIVITY METRICS                              -->
 <!-- ================================================================= -->
 
 ### 📊 `Live Telemetry & Activity Metrics`
@@ -132,17 +189,17 @@
   <table border="0" style="border: none;">
     <tr style="border: none;">
       <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Mjlonir29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=94A3B8&icon_color=00E5FF&rank_icon=github" width="100%" alt="Mjlonir29's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Mjlonir29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=94A3B8&icon_color=00F0FF&rank_icon=github" width="100%" alt="Mjlonir29's GitHub Stats" />
       </td>
       <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mjlonir29&theme=tokyonight&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=FF4D4D&currStreakNum=00E5FF" width="100%" alt="Mjlonir29's GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mjlonir29&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=FF4D4D&currStreakNum=00F0FF" width="100%" alt="Mjlonir29's GitHub Streak" />
       </td>
     </tr>
   </table>
   
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mjlonir29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=94A3B8" width="55%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mjlonir29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=94A3B8" width="55%" alt="Top Languages" />
 </div>
 
 <br/>
@@ -150,7 +207,7 @@
 ---
 
 <!-- ================================================================= -->
-<!-- 🐍 CONTRIBUTION SNAKE GAME ANIMATION                              -->
+<!-- 🐍 CONTRIBUTION SNAKE GAME ARENA                                  -->
 <!-- ================================================================= -->
 
 ### 🐍 `Contribution Arena`
@@ -164,25 +221,39 @@
 ---
 
 <!-- ================================================================= -->
-<!-- 💡 INTERACTIVE COLLAPSIBLE TERMINAL EASTER EGG                    -->
+<!-- 💡 DEVELOPER LOGS & SYSTEM SPECIFICATIONS                         -->
 <!-- ================================================================= -->
 
 <details>
-  <summary><b>🔍 Click to inspect internal debug logs & preferences</b></summary>
+  <summary><b>🔍 Click to inspect hardware rig, tools & preferences</b></summary>
   <br/>
-  
-  ```ini
-  [HARDWARE_PREFERENCES]
-  IDE           = VS Code (Tokyo Night Storm / One Dark Pro)
-  Terminal      = PowerShell / Zsh with Starship prompt
-  Theme         = Dark mode always (protect the eyes 👀)
-  Coffee_Intake = Overflowing ☕
-  
-  [CORE_RULES]
-  Rule_1 = Premature optimization is the root of all evil.
-  Rule_2 = Always validate user input on both client and server.
-  Rule_3 = Keep learning, building, and breaking things to make them better.
-  ```
+
+  <table>
+    <tr>
+      <th>Category</th>
+      <th>Configuration</th>
+    </tr>
+    <tr>
+      <td><b>💻 Primary OS</b></td>
+      <td>Windows 11 / WSL2 Linux Environment</td>
+    </tr>
+    <tr>
+      <td><b>⚡ Code Editor</b></td>
+      <td>VS Code (Theme: Tokyo Night / One Dark Pro)</td>
+    </tr>
+    <tr>
+      <td><b>🐚 Terminal</b></td>
+      <td>PowerShell 7 + Zsh with Starship Prompt</td>
+    </tr>
+    <tr>
+      <td><b>☕ Fuel</b></td>
+      <td>Coffee & Clean Music Playlists 🎧</td>
+    </tr>
+    <tr>
+      <td><b>🎯 2026 Goals</b></td>
+      <td>Deepen System Design, Next.js 15, Scalable Cloud Microservices</td>
+    </tr>
+  </table>
 </details>
 
 <br/>
@@ -190,24 +261,29 @@
 ---
 
 <!-- ================================================================= -->
-<!-- 🌐 GET IN TOUCH & SOCIAL DOCK                                     -->
+<!-- 📬 LET'S CONNECT & COLLABORATE                                    -->
 <!-- ================================================================= -->
 
-### 🌐 `Connect & Collaborate`
-
 <div align="center">
-  <p>Got a project idea, want to build something extraordinary, or just want to chat tech?</p>
+  <h3 id="-lets-connect--collaborate">📬 Let's Connect & Build Something Incredible</h3>
+  <p>I'm always open to discussing new opportunities, full-stack projects, or innovative tech ideas!</p>
 
   <a href="mailto:you@example.com">
-    <img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=0D1117&labelColor=161B22" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Direct_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=0D1117&labelColor=161B22" alt="Email" />
   </a>
   &nbsp;
   <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=0D1117&labelColor=161B22" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0D1117&labelColor=161B22" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/Mjlonir29">
-    <img src="https://img.shields.io/badge/GitHub-Follow-00E5FF?style=for-the-badge&logo=github&logoColor=white&color=0D1117&labelColor=161B22" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-00F0FF?style=for-the-badge&logo=github&logoColor=00F0FF&color=0D1117&labelColor=161B22" alt="GitHub" />
+  </a>
+
+  <br/><br/>
+
+  <a href="#sumit--mjlonir29">
+    <b>⬆ Back to Top</b>
   </a>
 </div>
 
@@ -218,5 +294,5 @@
 <!-- ================================================================= -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,20&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,20,10&height=120&section=footer" width="100%" alt="Footer" />
 </div>
