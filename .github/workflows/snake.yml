@@ -2,13 +2,13 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Run automatically every 24 hours
-    - cron: "0 0 * * *"
+    # Run automatically every 6 hours to keep contributions fresh
+    - cron: "0 */6 * * *"
   
-  # Allows manual triggering at any time
+  # Allows manual triggering at any time from the GitHub Actions tab
   workflow_dispatch:
   
-  # Run on every push to main
+  # Run on every push to main branch
   push:
     branches:
     - main

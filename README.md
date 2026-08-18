@@ -213,7 +213,11 @@
 ### 🐍 `Contribution Arena`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mjlonir29/Mjlonir29/output/github-contribution-grid-snake-dark.svg" alt="Snake Eating Contributions" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mjlonir29/Mjlonir29/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mjlonir29/Mjlonir29/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Eating Contributions" src="https://raw.githubusercontent.com/Mjlonir29/Mjlonir29/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
 <br/>
@@ -268,7 +272,7 @@
   <h3 id="-lets-connect--collaborate">📬 Let's Connect & Build Something Incredible</h3>
   <p>I'm always open to discussing new opportunities, full-stack projects, or innovative tech ideas!</p>
 
-  <a href="mailto:you@example.com">
+  <a href="mailto:sm2462005@gmail.com">
     <img src="https://img.shields.io/badge/Email-Direct_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=0D1117&labelColor=161B22" alt="Email" />
   </a>
   &nbsp;
