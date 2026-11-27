@@ -192,7 +192,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=Mjlonir29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=94A3B8&icon_color=00F0FF&rank_icon=github" width="100%" alt="Mjlonir29's GitHub Stats" />
       </td>
       <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mjlonir29&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=FF4D4D&currStreakNum=00F0FF" width="100%" alt="Mjlonir29's GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mjlonir29&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=FF4D4D&currStreakNum=00F0FF&timezone=Asia%2FKolkata" width="100%" alt="Mjlonir29's GitHub Streak" />
       </td>
     </tr>
   </table>
